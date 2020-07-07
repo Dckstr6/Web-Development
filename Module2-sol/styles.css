@@ -10,10 +10,11 @@ body{
 
 
 h1 {
-  margin-bottom: 15px;
+  margin-bottom: 50px;
+  margin-top: 30px;
   text-align: center;
-  color: #ff4532;
-  font-size: 50px;
+  color: rgb(8, 8, 8);
+  font-size: 30px;
 }
 
 
@@ -27,8 +28,8 @@ h1 {
 .box-name{
   overflow: none;
   text-align: center;
-  border: 4px solid black;
-  width: 100px;
+  border: 3px solid black;
+  width: 150px;
   height: 40px;
   padding: 5px;
   float: right;
@@ -51,15 +52,15 @@ h1 {
 }
 
 .name1{
-  background-color: #FFB6C1;
+  background-color: rgb(212, 134, 147);
 }
 
 .name2{
   color: white;
-  background-color: #FF0000;
+  background-color: rgb(175, 30, 30);
 }
 .name3{
-  background-color: #FFFF00;
+  background-color: rgb(197, 197, 117);
 }
 
 
